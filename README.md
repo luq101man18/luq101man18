@@ -1,144 +1,113 @@
-
-<!-- Terminal-inspired GitHub Profile README -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=190&text=LUQMAN%20AL%20HASNI&fontSize=42&fontColor=58F287&stroke=58F287&strokeWidth=1&color=0:0d1117,100:10251b&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%2F%20CLOUD%20%2F%20AI&descSize=14&descColor=9CA3AF&descAlignY=72" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&color=0:4F7CAC,100:8BB8A8" width="100%" />
+
+# Luqman Al Hasni
+
+### Software Engineering · Cloud · Applied AI
+
+Computer Science graduate from the University of Cincinnati  
+**Magna Cum Laude**
+
+Building practical software across backend systems, mobile development, and AI.
+
+[LinkedIn](https://www.linkedin.com/in/luqman-alhasni/) · [GitHub](https://github.com/luq101man18) · Oman
 
 </div>
 
-```text
-┌──[luqman@github]─────────────────────────────────────────┐
-│                                                          │
-│  $ whoami                                                │
-│  luqman-al-hasni                                         │
-│                                                          │
-│  $ cat profile.txt                                       │
-│  Computer Science graduate @ University of Cincinnati    │
-│  Magna Cum Laude | GPA: 3.83                             │
-│  Based in Oman                                           │
-│                                                          │
-│  $ ./interests --list                                    │
-│  Backend Engineering · Cloud Systems · AI/LLMs           │
-│  Software Architecture · Reverse Engineering             │
-│                                                          │
-│  $ echo $STATUS                                          │
-│  Building. Learning. Looking for meaningful problems.    │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+---
 
-### `01` / What I work with
+## About
+
+I'm a Computer Science graduate with hands-on experience in software
+engineering and IT operations. My work has included building serverless
+backends, developing mobile applications, integrating APIs, and exploring
+the use of large language models in software engineering.
+
+I'm particularly interested in backend engineering, cloud systems,
+software architecture, and practical applications of AI.
+
+## Technical Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,cpp,react,reactnative,nodejs,aws,dynamodb,mysql,git,linux,pytorch&perline=7" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,cpp,react,reactnative,nodejs,aws,dynamodb,mysql,pytorch,linux,git&perline=7" alt="Technical skills" />
 
 </div>
 
-```bash
-$ ls ./engineering/
-backend/       # APIs, serverless functions, data storage
-cloud/         # AWS Lambda, API Gateway, DynamoDB
-mobile/        # React Native, TypeScript
-ai-research/   # LLMs, PyTorch, code analysis
-```
+| Category | Technologies |
+|:--|:--|
+| **Languages** | TypeScript, JavaScript, Python, Java, C++ |
+| **Backend & APIs** | Node.js, REST APIs, GraphQL |
+| **Cloud** | AWS Lambda, API Gateway, DynamoDB |
+| **Mobile** | React Native |
+| **AI & Reverse Engineering** | PyTorch, LLM experiments, Ghidra |
+| **Databases & Tools** | MySQL, Git, Linux |
 
-### `02` / Selected projects
+## Selected Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### AI-Assisted Reverse Engineering — MalAI
 
-**`fawtara-ready/`**
+Explored how code-focused language models can support reverse engineering
+and the interpretation of decompiled code using Ghidra.
 
-Oman VAT invoice-readiness checker.
-
-A deterministic TypeScript rules engine for checking standard-rated invoices against core Oman VAT requirements.
-
-`TypeScript` `VAT Rules` `Validation`
-
-</td>
-<td width="50%" valign="top">
-
-**`malai/`**
-
-AI-assisted reverse engineering.
-
-Explores using fine-tuned DeepSeek-Coder models with Ghidra to make decompiled code easier to understand.
+- Experimented with DeepSeek-Coder models.
+- Worked with PyTorch-based model workflows.
+- Explored the intersection of LLMs and program analysis.
 
 `Python` `PyTorch` `LLMs` `Ghidra`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### Serverless E-Commerce Backend — ITG Software
 
-**`cloud-ecommerce/`**
+Developed backend functionality for e-commerce workflows using AWS services
+and Shopify integrations.
 
-Serverless e-commerce backend work.
+- Implemented AWS Lambda functions and API Gateway endpoints.
+- Supported customer registration, product retrieval, and order placement.
+- Integrated Shopify data through GraphQL.
+- Used DynamoDB to store customer order data.
 
-Built AWS Lambda functions and API Gateway endpoints for customer registration, product retrieval, and order placement, with Shopify API integration and DynamoDB order storage.
+`AWS Lambda` `API Gateway` `Shopify GraphQL` `DynamoDB`
 
-`AWS` `Lambda` `GraphQL` `DynamoDB`
+### Mobile E-Commerce — ITG Software
 
-</td>
-<td width="50%" valign="top">
+Contributed to a React Native e-commerce application, working on application
+features and API integrations.
 
-**`mobile-ecommerce/`**
+- Implemented mobile application features.
+- Collaborated with a senior engineer on issues and code reviews.
+- Worked with API endpoints connecting the application to backend services.
 
-React Native application development.
+`React Native` `TypeScript` `API Integration`
 
-Worked on e-commerce mobile features using React Native and TypeScript, with experience integrating APIs and contributing through reviewed pull requests.
+## Experience
 
-`React Native` `TypeScript` `APIs`
+**ITG Software Engineering**  
+*Software Engineering Intern / Co-op*
 
-</td>
-</tr>
-</table>
+Worked across mobile application development and serverless backend
+engineering, including AWS services, Shopify integrations, and
+e-commerce workflows.
 
-### `03` / Engineering experience
+**Omantel**  
+*IT Support Co-op*
 
-```text
-[ITG SOFTWARE]  Software Engineering Intern
-                ├── AWS Lambda + API Gateway
-                ├── Shopify API integration
-                └── DynamoDB order persistence
+Supported enterprise IT operations and helped train and onboard four interns.
 
-[OMANTEL]       IT Support Co-op
-                └── IT support and intern onboarding
-```
+## Areas of Interest
 
-### `04` / Current terminal
+- Backend engineering and scalable services
+- Distributed systems and software architecture
+- Cloud infrastructure and serverless applications
+- LLMs and AI-assisted software engineering
+- Reverse engineering and program analysis
 
-```bash
-$ cat focus.txt
-→ Writing maintainable backend systems
-→ Understanding distributed-system design
-→ Exploring practical applications of LLMs
-→ Building software that solves real problems
-```
-
-### `05` / Activity
+---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=luq101man18&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58F287&icon_color=58F287&text_color=c9d1d9&rank_icon=github" />
+*Build thoughtfully. Learn continuously. Solve real problems.*
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luq101man18&layout=compact&hide_border=true&bg_color=0d1117&title_color=58F287&text_color=c9d1d9" />
-
-</div>
-
-### `06` / Connect
-
-```bash
-$ open linkedin
-```
-
-[LinkedIn](https://www.linkedin.com/in/luqman-alhasni/) · [GitHub](https://github.com/luq101man18)
-
-<div align="center">
-
-<sub><code>exit 0 — thanks for visiting.</code></sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=footer&color=0:8BB8A8,100:4F7CAC" width="100%" />
 
 </div>
