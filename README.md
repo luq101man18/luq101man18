@@ -9,15 +9,13 @@ Computer Science graduate · University of Cincinnati · Magna Cum Laude
 
 [LinkedIn](https://www.linkedin.com/in/luqman-alhasni/) · [GitHub](https://github.com/luq101man18)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D4FF,50:6574FF,100:B16CFF" width="100%" alt="" />
-
 </div>
 
 ## About Me
 
 Computer Science graduate with hands-on experience in mobile application development, backend functionality, web development, and IT operations. I've worked on e-commerce applications, database-driven web applications, and an AI-assisted reverse-engineering project.
 
-## 🧰 Technologies & Tools
+## Technologies & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,arduino&perline=6" alt="Programming languages" />
@@ -33,7 +31,7 @@ Computer Science graduate with hands-on experience in mobile application develop
 
 **Also used:** JSP, Servlets, Shopify API, GraphQL, DynamoDB, AWS Lambda, API Gateway, and Streamlit.
 
-## 🚀 Selected Projects
+## Selected Projects
 
 <details>
 <summary><strong>🧠 MalAI — AI-assisted Reverse Engineering</strong> · Spring 2026</summary>
@@ -54,7 +52,7 @@ Developed a React Native e-commerce application with Redux state management and 
 </details>
 
 <details>
-<summary><strong>🌐 Mini Facebook</strong> · Summer 2024</summary>
+<summary><strong>Mini Facebook</strong> · Summer 2024</summary>
 
 Built a database-driven social media website where users could post, comment, and update their credentials, with an administration page for activating and deactivating accounts.
 
@@ -62,7 +60,7 @@ Built a database-driven social media website where users could post, comment, an
 
 </details>
 
-## 💼 Experience
+## Experience
 
 ### ITG Software, Inc. — Software Engineer Intern
 **Summer 2025 · Backend functionality**
@@ -96,7 +94,7 @@ Built a database-driven social media website where users could post, comment, an
 - Developed database-backed solutions to replace file-based storage.
 - Gained experience with web development, JSPs, and servlet-based applications.
 
-## 🎓 Education
+## Education
 
 **University of Cincinnati**  
 Bachelor of Science in Computer Science · Spring 2026
