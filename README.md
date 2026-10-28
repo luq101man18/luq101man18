@@ -58,9 +58,3 @@ Fall 2024 · Summer 2025
 Summer 2023 · Supported IT operations for a headquarters serving over 3,000 staff and mentored four individuals.
 
 ---
-
-<div align="center">
-
-*Build thoughtfully. Keep learning.*
-
-</div>
