@@ -34,7 +34,7 @@ Computer Science graduate with hands-on experience in mobile application develop
 ## Selected Projects
 
 <details>
-<summary><strong>🧠 MalAI — AI-assisted Reverse Engineering</strong> · Spring 2026</summary>
+<summary><strong>MalAI — AI-assisted Reverse Engineering</strong> · Spring 2026</summary>
 
 Integrated a fine-tuned DeepSeek-Coder 6.7B language model into Ghidra to generate more readable, semantically accurate decompiled C code, supporting reverse-engineering and malware-analysis workflows.
 
@@ -43,7 +43,7 @@ Integrated a fine-tuned DeepSeek-Coder 6.7B language model into Ghidra to genera
 </details>
 
 <details>
-<summary><strong>🛒 E-commerce Application</strong> · Fall 2024</summary>
+<summary><strong>E-commerce Application</strong> · Fall 2024</summary>
 
 Developed a React Native e-commerce application with Redux state management and implemented more than 10 features, including checkout, filtering, sorting, and search. Collaborated with a senior software engineer on code reviews, feature integration, and bug fixes.
 
