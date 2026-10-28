@@ -14,6 +14,26 @@ Computer Science · University of Cincinnati · Magna Cum Laude
 
 ---
 
+
+<div align="center">
+
+<pre>
+      ▄▄▄▄▄▄▄▄▄▄▄▄▄
+     ▐ ▄▄▄▄▄▄▄▄▄▄▄ ▌
+     ▐ ▌           ▌ ▌
+     ▐ ▌  > _      ▌ ▌
+     ▐ ▌  BUILD    ▌ ▌
+     ▐ ▌  ▀▀▀▀▀    ▌ ▌
+     ▐ ▀▀▀▀▀▀▀▀▀▀▀ ▌
+      ▀▀▀▀▀█▀▀▀▀▀▀
+          ▄█▄
+         ▀▀▀▀▀
+</pre>
+
+**`BUILD · LEARN · REPEAT`**
+
+</div>
+
 <div align="center">
 
 <img src="YOUR_CUSTOM_SPHERE_IMAGE_URL" width="480" alt="Custom digital sphere representing interconnected software systems" />
