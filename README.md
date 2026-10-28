@@ -1,80 +1,14 @@
 
 <div align="center">
 
-# Luqman Al Hasni
+# LUQMAN AL HASNI
+### Software Engineer · Systems · Applied AI
 
-### Software Engineer · Cloud · Applied AI
+**I like understanding what happens beneath the interface.**
 
-*Build. Solve. Improve.*
+Computer Science · University of Cincinnati · Magna Cum Laude
 
-Computer Science graduate from the University of Cincinnati · Magna Cum Laude
-
-[LinkedIn](https://www.linkedin.com/in/luqman-alhasni/) · [GitHub](https://github.com/luq101man18)
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:07111f,50:123b70,100:00d4ff&text=BUILD%20WHAT%20MATTERS&fontColor=ffffff&fontSize=27&fontAlignY=50&animation=fadeIn" width="100%" alt="Abstract blue digital sphere banner" />
-
-</div>
-
----
-
-## ◉ Areas I Explore
-
-`BACKEND`　`CLOUD SYSTEMS`　`APPLIED AI`　`MOBILE`　`SYSTEM DESIGN`
-
-## ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,cpp,react,nodejs,aws,mysql,pytorch,linux,git&perline=6" alt="TypeScript, JavaScript, Python, Java, C++, React, Node.js, AWS, MySQL, PyTorch, Linux, Git" />
-</p>
-
-## 🚀 Selected Work
-
-<details>
-<summary><strong>🧠 MalAI — AI-assisted reverse engineering</strong></summary>
-
-Explored code-focused language models for interpreting decompiled programs using Ghidra.
-
-**Tools:** Python · PyTorch · DeepSeek-Coder · Ghidra
-
-</details>
-
-<details>
-<summary><strong>☁️ Serverless E-commerce — ITG Software</strong></summary>
-
-Built AWS Lambda functions and API Gateway endpoints for customer registration, product retrieval, and order placement; integrated Shopify GraphQL and DynamoDB.
-
-**Tools:** AWS · GraphQL · DynamoDB
-
-</details>
-
-<details>
-<summary><strong>📱 Mobile E-commerce — ITG Software</strong></summary>
-
-Developed React Native features, integrated API endpoints, and collaborated through code reviews.
-
-**Tools:** React Native · TypeScript
-
-</details>
-
-## 🛠️ Experience
-
-**ITG Software Engineering**  
-Software Engineering Intern / Co-op
-
-Worked on mobile e-commerce development and serverless backend functionality, including AWS services and Shopify integration.
-
-**Omantel**  
-IT Support Co-op
-
-Supported IT operations and helped train four interns.
-
-## 📈 Contributions
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luq101man18&bg_color=07111f&color=75caff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-
-*Every commit is a step forward.*
+[ LinkedIn ↗ ](https://www.linkedin.com/in/luqman-alhasni/)　·　[ GitHub ↗ ](https://github.com/luq101man18)
 
 </div>
 
@@ -82,8 +16,72 @@ Supported IT operations and helped train four interns.
 
 <div align="center">
 
-**Currently growing in backend engineering, cloud systems, and applied AI.**
+<img src="YOUR_CUSTOM_SPHERE_IMAGE_URL" width="480" alt="Custom digital sphere representing interconnected software systems" />
 
-<sub>Oman · Build. Learn. Grow.</sub>
+`01 / BACKEND`　 `02 / CLOUD`　 `03 / AI`　 `04 / SYSTEMS`
+
+</div>
+
+---
+
+### / FIELD NOTES
+
+<details>
+<summary><strong>01 — MalAI</strong>　 AI × Reverse Engineering</summary>
+
+Exploring how code-focused language models can interpret decompiled programs through Ghidra.
+
+`PYTHON` `PYTORCH` `DEEPSEEK-CODER` `GHIDRA`
+
+</details>
+
+<details>
+<summary><strong>02 — Serverless Commerce</strong>　 APIs × Cloud</summary>
+
+Built Lambda functions and API Gateway endpoints for customer registration, product retrieval, and order placement; integrated Shopify GraphQL and DynamoDB.
+
+`AWS` `GRAPHQL` `DYNAMODB`
+
+</details>
+
+<details>
+<summary><strong>03 — Mobile Commerce</strong>　 Product × Engineering</summary>
+
+Developed React Native features, integrated APIs, and worked through collaborative code reviews.
+
+`REACT NATIVE` `TYPESCRIPT`
+
+</details>
+
+---
+
+### / TOOLKIT
+
+| DOMAIN | TOOLS |
+|---|---|
+| Languages | TypeScript · JavaScript · Python · Java · C++ |
+| Application | React · React Native · Node.js |
+| Infrastructure | AWS · Linux · MySQL |
+| AI & Analysis | PyTorch · Ghidra |
+
+---
+
+### / ENGINEERING LOG
+
+**ITG Software Engineering** — Software Engineering Intern / Co-op  
+Mobile applications, serverless APIs, Shopify integration, and order persistence.
+
+**Omantel** — IT Support Co-op  
+Enterprise IT support and helping train four interns.
+
+---
+
+<div align="center">
+
+### STILL IN PROGRESS.
+
+Learning by building. Improving by understanding.
+
+<sub>OMAN · SOFTWARE · SYSTEMS</sub>
 
 </div>
