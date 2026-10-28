@@ -1,127 +1,144 @@
 
+<!-- Terminal-inspired GitHub Profile README -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Luqman%20Al%20Hasni&fontSize=48&color=0:0d1117,100:12372A&fontColor=58F287&stroke=58F287&strokeWidth=1&animation=fadeIn&desc=Software%20Engineer%20%7C%20Cloud%20%7C%20AI&descSize=16&descAlignY=72" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=190&text=LUQMAN%20AL%20HASNI&fontSize=42&fontColor=58F287&stroke=58F287&strokeWidth=1&color=0:0d1117,100:10251b&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%2F%20CLOUD%20%2F%20AI&descSize=14&descColor=9CA3AF&descAlignY=72" width="100%" />
+
+</div>
+
+```text
+┌──[luqman@github]─────────────────────────────────────────┐
+│                                                          │
+│  $ whoami                                                │
+│  luqman-al-hasni                                         │
+│                                                          │
+│  $ cat profile.txt                                       │
+│  Computer Science graduate @ University of Cincinnati    │
+│  Magna Cum Laude | GPA: 3.83                             │
+│  Based in Oman                                           │
+│                                                          │
+│  $ ./interests --list                                    │
+│  Backend Engineering · Cloud Systems · AI/LLMs           │
+│  Software Architecture · Reverse Engineering             │
+│                                                          │
+│  $ echo $STATUS                                          │
+│  Building. Learning. Looking for meaningful problems.    │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+### `01` / What I work with
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,cpp,react,reactnative,nodejs,aws,dynamodb,mysql,git,linux,pytorch&perline=7" />
 
 </div>
 
 ```bash
-┌──(luqman㉿github)-[~]
-└─$ cat about.txt
-
-Name       : Luqman Al Hasni
-Education  : B.S. Computer Science
-University : University of Cincinnati
-Honors     : Magna Cum Laude | GPA 3.83
-Location   : Oman
-
-Interests  : Backend Systems, Cloud Infrastructure, AI/LLMs
-Currently  : Building practical software & exploring system design
-Status     : Open to Software Engineering Opportunities
+$ ls ./engineering/
+backend/       # APIs, serverless functions, data storage
+cloud/         # AWS Lambda, API Gateway, DynamoDB
+mobile/        # React Native, TypeScript
+ai-research/   # LLMs, PyTorch, code analysis
 ```
 
-### `./what-i-build`
-
-```text
-[01] Cloud-native backend services
-[02] Full-stack & mobile applications
-[03] AI-assisted reverse engineering
-[04] Deterministic software for real-world problems
-```
-
-### `./tech --all`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,react,nodejs,aws,docker,linux,pytorch,mysql,git&perline=7" />
-
-</div>
-
-### `ls ~/projects`
+### `02` / Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**01 / Fawtara Ready**
+**`fawtara-ready/`**
 
-```text
-type:       business-rule-engine
-domain:     Oman VAT
-language:   TypeScript
-focus:      deterministic validation
-```
+Oman VAT invoice-readiness checker.
 
-A rule-based invoice readiness checker designed around Oman's standard-rated VAT requirements.
+A deterministic TypeScript rules engine for checking standard-rated invoices against core Oman VAT requirements.
+
+`TypeScript` `VAT Rules` `Validation`
 
 </td>
 <td width="50%" valign="top">
 
-**02 / MalAI**
+**`malai/`**
 
-```text
-type:       AI + reverse engineering
-language:   Python
-tools:      PyTorch, Ghidra
-focus:      LLM-assisted code analysis
-```
+AI-assisted reverse engineering.
 
-Exploring how language models can support assembly analysis and decompilation workflows.
+Explores using fine-tuned DeepSeek-Coder models with Ghidra to make decompiled code easier to understand.
+
+`Python` `PyTorch` `LLMs` `Ghidra`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**03 / Cloud E-Commerce**
+**`cloud-ecommerce/`**
 
-```text
-type:       serverless backend
-cloud:      AWS
-services:   Lambda, API Gateway
-data:       DynamoDB
-```
+Serverless e-commerce backend work.
 
-Backend APIs and Shopify GraphQL integrations for e-commerce workflows.
+Built AWS Lambda functions and API Gateway endpoints for customer registration, product retrieval, and order placement, with Shopify API integration and DynamoDB order storage.
+
+`AWS` `Lambda` `GraphQL` `DynamoDB`
 
 </td>
 <td width="50%" valign="top">
 
-**04 / Current Learning**
+**`mobile-ecommerce/`**
 
-```text
-$ study distributed-systems
-$ explore llm-engineering
-$ improve software-architecture
-```
+React Native application development.
 
-Learning by building, experimenting, and understanding trade-offs.
+Worked on e-commerce mobile features using React Native and TypeScript, with experience integrating APIs and contributing through reviewed pull requests.
+
+`React Native` `TypeScript` `APIs`
 
 </td>
 </tr>
 </table>
 
-### `git status`
+### `03` / Engineering experience
+
+```text
+[ITG SOFTWARE]  Software Engineering Intern
+                ├── AWS Lambda + API Gateway
+                ├── Shopify API integration
+                └── DynamoDB order persistence
+
+[OMANTEL]       IT Support Co-op
+                └── IT support and intern onboarding
+```
+
+### `04` / Current terminal
+
+```bash
+$ cat focus.txt
+→ Writing maintainable backend systems
+→ Understanding distributed-system design
+→ Exploring practical applications of LLMs
+→ Building software that solves real problems
+```
+
+### `05` / Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=luq101man18&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58f287&icon_color=58f287&text_color=c9d1d9" height="165" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=luq101man18&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58F287&icon_color=58F287&text_color=c9d1d9&rank_icon=github" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luq101man18&layout=compact&hide_border=true&bg_color=0d1117&title_color=58f287&text_color=c9d1d9" height="165" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luq101man18&layout=compact&hide_border=true&bg_color=0d1117&title_color=58F287&text_color=c9d1d9" />
 
 </div>
 
-### `./connect`
+### `06` / Connect
 
 ```bash
 $ open linkedin
 ```
 
-<a href="https://www.linkedin.com/in/luqman-alhasni/"><img src="https://img.shields.io/badge/LINKEDIN-58F287?style=flat-square&logo=linkedin&logoColor=0d1117" /></a>
-<a href="https://github.com/luq101man18"><img src="https://img.shields.io/badge/GITHUB-58F287?style=flat-square&logo=github&logoColor=0d1117" /></a>
+[LinkedIn](https://www.linkedin.com/in/luqman-alhasni/) · [GitHub](https://github.com/luq101man18)
 
-```text
-┌───────────────────────────────────────────┐
-│  "Understand the system. Build the tool." │
-└───────────────────────────────────────────┘
-```
+<div align="center">
+
+<sub><code>exit 0 — thanks for visiting.</code></sub>
+
+</div>
