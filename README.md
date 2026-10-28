@@ -1,75 +1,66 @@
 
 <div align="center">
 
-# LUQMAN AL HASNI
-### Software Engineer · Systems · Applied AI
+# Luqman Al Hasni
 
-**I like understanding what happens beneath the interface.**
+**Software Engineer | Application Development | Applied AI**
 
-Computer Science · University of Cincinnati · Magna Cum Laude
+B.S. Computer Science · University of Cincinnati · Magna Cum Laude
 
-[ LinkedIn ↗ ](https://www.linkedin.com/in/luqman-alhasni/)　·　[ GitHub ↗ ](https://github.com/luq101man18)
+[LinkedIn](https://www.linkedin.com/in/luqman-alhasni/) · [GitHub](https://github.com/luq101man18)
 
 </div>
 
 ---
 
+### About
+
+Computer Science graduate with internship experience in mobile application development, backend APIs, and IT support. Interested in building useful software and exploring practical applications of AI.
+
+### Technical Skills
+
+**Languages:** Python, Java, C, C++, PHP, JavaScript, TypeScript
+
+**Application Development:** React, React Native, Redux, HTML, CSS, jQuery
+
+**Databases:** SQL, MySQL, MongoDB
+
+**Tools & Technologies:** Git, GitHub, AWS, PyTorch, Ghidra, Flask, Shopify API
+
+### Selected Work
+
+**MalAI — AI-assisted Reverse Engineering** · Spring 2026
+
+Integrated a fine-tuned DeepSeek 6.7B language model with Ghidra to generate more readable, semantically accurate decompiled C code.
+
+`PyTorch` `Ghidra` `LLMs`
+
+**E-commerce Application** · ITG Software, Fall 2024
+
+Developed a React Native e-commerce application and implemented 10+ features, including checkout, filtering, sorting, and search. Used Redux for state management and collaborated with a senior software engineer on code reviews and bug fixes.
+
+`React Native` `Redux` `TypeScript`
+
+**Serverless E-commerce Backend** · ITG Software, Summer 2025
+
+Developed eight AWS Lambda functions with API Gateway endpoints for customer registration, product retrieval, and order placement. Integrated Shopify data and used DynamoDB to store customer orders.
+
+`AWS Lambda` `API Gateway` `Shopify API` `DynamoDB`
+
+### Experience
+
+**ITG Software** — Software Engineer Intern
+
+Fall 2024 · Summer 2025
+
+**Omantel** — IT Operations Support
+
+Summer 2023 · Supported IT operations for a headquarters serving over 3,000 staff and mentored four individuals.
+
+---
+
 <div align="center">
-  <img src="./sphere.svg" width="560" alt="Rotating sphere with orbiting engineering themes" />
+
+*Build thoughtfully. Keep learning.*
+
 </div>
-
----
-
-### / Projects
-
-<details>
-<summary><strong>01 — MalAI</strong>　 AI × Reverse Engineering</summary>
-
-Exploring how code-focused language models can interpret decompiled programs through Ghidra.
-
-`PYTHON` `PYTORCH` `DEEPSEEK-CODER` `GHIDRA`
-
-</details>
-
-<details>
-<summary><strong>02 — Serverless Commerce</strong>　 APIs × Cloud</summary>
-
-Built Lambda functions and API Gateway endpoints for customer registration, product retrieval, and order placement; integrated Shopify GraphQL and DynamoDB.
-
-`AWS` `GRAPHQL` `DYNAMODB`
-
-</details>
-
-<details>
-<summary><strong>03 — Mobile Commerce</strong>　 Product × Engineering</summary>
-
-Developed React Native features, integrated APIs, and worked through collaborative code reviews.
-
-`REACT NATIVE` `TYPESCRIPT`
-
-</details>
-
----
-
-### / Skills
-
-| DOMAIN | TOOLS |
-|---|---|
-| Languages | TypeScript · JavaScript · Python · Java · C++ |
-| Application | React · React Native · Node.js |
-| Infrastructure | AWS · Linux · MySQL |
-| AI & Analysis | PyTorch · Ghidra |
-
----
-
-### / Experience
-
-**ITG Software Engineering** — Software Engineering Intern / Co-op  
-Mobile applications, serverless APIs, Shopify integration, and order persistence.
-
-**Omantel** — IT Support Co-op  
-Enterprise IT support and helping train four interns.
-
----
-
-<div align="center">
