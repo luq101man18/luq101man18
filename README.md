@@ -14,37 +14,13 @@ Computer Science · University of Cincinnati · Magna Cum Laude
 
 ---
 
-
 <div align="center">
-
-<pre>
-      ▄▄▄▄▄▄▄▄▄▄▄▄▄
-     ▐ ▄▄▄▄▄▄▄▄▄▄▄ ▌
-     ▐ ▌           ▌ ▌
-     ▐ ▌  > _      ▌ ▌
-     ▐ ▌  BUILD    ▌ ▌
-     ▐ ▌  ▀▀▀▀▀    ▌ ▌
-     ▐ ▀▀▀▀▀▀▀▀▀▀▀ ▌
-      ▀▀▀▀▀█▀▀▀▀▀▀
-          ▄█▄
-         ▀▀▀▀▀
-</pre>
-
-**`BUILD · LEARN · REPEAT`**
-
-</div>
-
-<div align="center">
-
-<img src="YOUR_CUSTOM_SPHERE_IMAGE_URL" width="480" alt="Custom digital sphere representing interconnected software systems" />
-
-`01 / BACKEND`　 `02 / CLOUD`　 `03 / AI`　 `04 / SYSTEMS`
-
+  <img src="./sphere.svg" width="560" alt="Rotating sphere with orbiting engineering themes" />
 </div>
 
 ---
 
-### / FIELD NOTES
+### / Projects
 
 <details>
 <summary><strong>01 — MalAI</strong>　 AI × Reverse Engineering</summary>
@@ -75,7 +51,7 @@ Developed React Native features, integrated APIs, and worked through collaborati
 
 ---
 
-### / TOOLKIT
+### / Skills
 
 | DOMAIN | TOOLS |
 |---|---|
@@ -86,7 +62,7 @@ Developed React Native features, integrated APIs, and worked through collaborati
 
 ---
 
-### / ENGINEERING LOG
+### / Experience
 
 **ITG Software Engineering** — Software Engineering Intern / Co-op  
 Mobile applications, serverless APIs, Shopify integration, and order persistence.
@@ -97,11 +73,3 @@ Enterprise IT support and helping train four interns.
 ---
 
 <div align="center">
-
-### STILL IN PROGRESS.
-
-Learning by building. Improving by understanding.
-
-<sub>OMAN · SOFTWARE · SYSTEMS</sub>
-
-</div>
