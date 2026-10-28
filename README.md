@@ -102,11 +102,3 @@ Bachelor of Science in Computer Science · Spring 2026
 Relevant coursework: Deep Learning, Software Engineering, Database Design and Development, Network Security, and Design and Analysis of Algorithms.
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D4FF,50:6574FF,100:B16CFF" width="100%" alt="" />
-
-*Build · Learn · Improve*
-
-</div>
