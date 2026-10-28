@@ -1,113 +1,116 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&color=0:4F7CAC,100:8BB8A8" width="100%" />
+# LUQMAN AL HASNI
 
-# Luqman Al Hasni
+**SOFTWARE ENGINEERING &nbsp; / &nbsp; CLOUD &nbsp; / &nbsp; AI**
 
-### Software Engineering · Cloud · Applied AI
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=6B9DFF&center=true&vCenter=true&width=480&lines=Turning+ideas+into+working+software.;Exploring+systems+under+the+surface.;Building%2C+learning%2C+improving." alt="A short animated introduction" />
 
-Computer Science graduate from the University of Cincinnati  
-**Magna Cum Laude**
+Computer Science graduate · University of Cincinnati · Magna Cum Laude
 
-Building practical software across backend systems, mobile development, and AI.
-
-[LinkedIn](https://www.linkedin.com/in/luqman-alhasni/) · [GitHub](https://github.com/luq101man18) · Oman
+[LinkedIn ↗](https://www.linkedin.com/in/luqman-alhasni/) &nbsp; · &nbsp; [GitHub ↗](https://github.com/luq101man18)
 
 </div>
 
 ---
 
-## About
+### 01 — The engineer
 
-I'm a Computer Science graduate with hands-on experience in software
-engineering and IT operations. My work has included building serverless
-backends, developing mobile applications, integrating APIs, and exploring
-the use of large language models in software engineering.
+I'm interested in how software works beyond the interface: the APIs behind an application, the infrastructure that runs it, and the engineering decisions that make systems reliable.
 
-I'm particularly interested in backend engineering, cloud systems,
-software architecture, and practical applications of AI.
+My experience spans mobile development, serverless backends, cloud integrations, and experiments with language models for code analysis.
 
-## Technical Skills
+I'm particularly drawn to **backend engineering, cloud systems, and applied AI**.
+
+### 02 — Tools of the trade
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,cpp,react,reactnative,nodejs,aws,dynamodb,mysql,pytorch,linux,git&perline=7" alt="Technical skills" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,cpp&theme=dark" alt="Programming languages" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,aws,dynamodb,mysql&theme=dark" alt="Frameworks, cloud, and databases" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=pytorch,linux,git,github,vscode&theme=dark" alt="AI and development tools" />
 
 </div>
 
-| Category | Technologies |
-|:--|:--|
-| **Languages** | TypeScript, JavaScript, Python, Java, C++ |
-| **Backend & APIs** | Node.js, REST APIs, GraphQL |
-| **Cloud** | AWS Lambda, API Gateway, DynamoDB |
-| **Mobile** | React Native |
-| **AI & Reverse Engineering** | PyTorch, LLM experiments, Ghidra |
-| **Databases & Tools** | MySQL, Git, Linux |
+<details>
+<summary><b>Technical overview</b></summary>
 
-## Selected Work
+| Area | Experience |
+|---|---|
+| Languages | TypeScript, JavaScript, Python, Java, C++ |
+| Backend | Node.js, API development, GraphQL |
+| Cloud | AWS Lambda, API Gateway, DynamoDB |
+| Mobile | React Native, API integration |
+| AI & program analysis | PyTorch, LLM experiments, Ghidra |
+| Other tools | Linux, Git, MySQL |
 
-### AI-Assisted Reverse Engineering — MalAI
+</details>
 
-Explored how code-focused language models can support reverse engineering
-and the interpretation of decompiled code using Ghidra.
+### 03 — Selected work
 
-- Experimented with DeepSeek-Coder models.
-- Worked with PyTorch-based model workflows.
-- Explored the intersection of LLMs and program analysis.
+<details open>
+<summary><b>MalAI</b> · AI-assisted reverse engineering</summary>
 
-`Python` `PyTorch` `LLMs` `Ghidra`
+Explored the use of code-focused language models to help interpret decompiled programs.
 
-### Serverless E-Commerce Backend — ITG Software
+- Experimented with DeepSeek-Coder and model fine-tuning workflows.
+- Worked with PyTorch and Ghidra.
+- Explored the intersection of language models and program analysis.
 
-Developed backend functionality for e-commerce workflows using AWS services
-and Shopify integrations.
+`PYTHON` &nbsp; `PYTORCH` &nbsp; `LLMs` &nbsp; `GHIDRA`
+
+</details>
+
+<details open>
+<summary><b>Serverless e-commerce backend</b> · ITG Software</summary>
+
+Built backend functionality supporting key e-commerce workflows.
 
 - Implemented AWS Lambda functions and API Gateway endpoints.
 - Supported customer registration, product retrieval, and order placement.
 - Integrated Shopify data through GraphQL.
-- Used DynamoDB to store customer order data.
+- Used DynamoDB for order persistence.
 
-`AWS Lambda` `API Gateway` `Shopify GraphQL` `DynamoDB`
+`AWS` &nbsp; `LAMBDA` &nbsp; `GRAPHQL` &nbsp; `DYNAMODB`
 
-### Mobile E-Commerce — ITG Software
+</details>
 
-Contributed to a React Native e-commerce application, working on application
-features and API integrations.
+<details>
+<summary><b>Mobile e-commerce</b> · ITG Software</summary>
 
-- Implemented mobile application features.
-- Collaborated with a senior engineer on issues and code reviews.
-- Worked with API endpoints connecting the application to backend services.
+Contributed to a React Native e-commerce application, implementing features, integrating API endpoints, and collaborating with a senior engineer through issue resolution and code reviews.
 
-`React Native` `TypeScript` `API Integration`
+`REACT NATIVE` &nbsp; `TYPESCRIPT` &nbsp; `APIs`
 
-## Experience
+</details>
+
+### 04 — Experience
 
 **ITG Software Engineering**  
-*Software Engineering Intern / Co-op*
+Software Engineering Intern / Co-op
 
-Worked across mobile application development and serverless backend
-engineering, including AWS services, Shopify integrations, and
-e-commerce workflows.
+Mobile application development, serverless backend implementation, cloud integrations, and collaborative software development.
 
 **Omantel**  
-*IT Support Co-op*
+IT Support Co-op
 
-Supported enterprise IT operations and helped train and onboard four interns.
-
-## Areas of Interest
-
-- Backend engineering and scalable services
-- Distributed systems and software architecture
-- Cloud infrastructure and serverless applications
-- LLMs and AI-assisted software engineering
-- Reverse engineering and program analysis
+Enterprise IT support and helping train four new interns.
 
 ---
 
 <div align="center">
 
-*Build thoughtfully. Learn continuously. Solve real problems.*
+<sub>OMAN · OPEN TO SOFTWARE ENGINEERING OPPORTUNITIES</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=footer&color=0:8BB8A8,100:4F7CAC" width="100%" />
+<br />
+
+*Understand the problem. Build the solution. Understand it better.*
 
 </div>
